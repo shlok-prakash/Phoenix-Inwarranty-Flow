@@ -67,7 +67,7 @@ jobs:
                Phoenix Inwarranty flow tests has been executed. The Report has been published and the URL 
                is: https://shlok-prakash.github.io/Phoenix-Inwarranty-Flow/
 
-         attachments: newman/index.html
+         # attachments: newman/index.html
          
          
          
