@@ -11,7 +11,8 @@ on:
 
 jobs:
  run-postman-tests:
-   runs-on: postman_runner
+   # runs-on: postman_runner   #Use the same runner in the tag name and uncomment it while using AWS EC2.
+   runs-on: ubuntu-22.04
 
    
    steps:
