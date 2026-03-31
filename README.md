@@ -97,7 +97,7 @@ flowchart LR
     G --> H[Upload Artifact]
     G --> I[Deploy to GitHub Pages]
     G --> J[Send Email Notification]
-    J --> K[Public Report URL]
+    I --> K[Public Report URL]
  ```
 
 ## 🔮 Future Enhancements
