@@ -1,7 +1,7 @@
 # 🚀 Postman API Automation with GitHub Actions
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-blue)
-![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
+![Node.js](https://img.shields.io/badge/Node.js-24.x-green)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
 
 ## 📌 Project Overview
